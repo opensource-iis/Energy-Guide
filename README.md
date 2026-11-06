@@ -7,7 +7,7 @@
 
 **Hardware**
 
-- Dedicated advice for 
+- Dedicated advice for monitors, GPUs, mice and keyboards
 
 **Software**
 
